@@ -77,10 +77,13 @@ A Python-based image steganography tool that hides and retrieves secret messages
 ## Screenshots
 
 ### Encoding a Message
-![Encoding Example](screenshots/encode_example.png)
+![encode_example](https://github.com/user-attachments/assets/12eb5799-a082-407b-9e5e-3952d7bc0c0d)
+
+
 
 ### Decoding a Message
-![Decoding Example](screenshots/decode_example.png)
+![Decoding Example](https://github.com/user-attachments/assets/ef14e959-9f88-4b43-a78b-aeec8c5e3dc6)
+
 
 ## Technologies Used
 
